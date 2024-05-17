@@ -2,6 +2,8 @@
 My collection of prompts find on the web and as well created by myself
 
 **Job search**
+Spource: https://www.linkedin.com/posts/heyronir_most-people-still-job-hunt-the-old-way-activity-7195052014177853440-ufsX/
+
 1. Company Research
 
 "I have an interview with [company] for the position of [job position]. Please summarize the company's mission, core products or services, and recent news or achievements by analyzing their website [website link] and any recent press releases."
