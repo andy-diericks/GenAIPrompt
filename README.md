@@ -6,7 +6,7 @@ Source: https://www.linkedin.com/posts/heyronir_most-people-still-job-hunt-the-o
 
 1. Company Research
 
-"I have an interview with [company] for the position of [job position]. Please summarize the company's mission, core products or services, and recent news or achievements by analyzing their website [website link] and any recent press releases."
+_"I have an interview with [company] for the position of [job position]. Please summarize the company's mission, core products or services, and recent news or achievements by analyzing their website [website link] and any recent press releases."_
 
 3. Resume Optimization
 
