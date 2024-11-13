@@ -6,3 +6,6 @@ https://github.com/andy-diericks/GenAIPrompt/blob/main/Landing%20Dream%20Job
 
 Most people still job hunt the old way. But did you know ChatGPT can 3X your interview chances? Copy and paste these ChatGPT prompts to land your dream job in 2024
 https://github.com/andy-diericks/GenAIPrompt/blob/main/Job%20search
+
+Using ChatGPT, this 37-year-old created a custom skincare routine to address acne and fine lines, and she's thrilled with her results so far!
+https://github.com/andy-diericks/GenAIPrompt/blob/main/Skin%20care
